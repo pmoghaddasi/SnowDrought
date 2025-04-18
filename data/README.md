@@ -33,6 +33,6 @@ All data has been preprocessed to calculate basin-averaged SWE values for each C
 ## Coverage
 - Temporal coverage varies by dataset:
   - Daymet: 1980-2023
-  - GLDAS: 1948-2023
+  - GLDAS: 1980-2023
   - SNODAS: 2003-2023
   - UAZ: 1981-2021
